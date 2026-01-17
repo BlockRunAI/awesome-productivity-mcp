@@ -19,6 +19,7 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 - [Automation](#automation)
 - [Browser Automation](#browser-automation)
 - [Office Documents](#office-documents)
+- [Community Contributions](#community-contributions) 🆕
 
 ---
 
@@ -110,6 +111,54 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 | [Word MCP](https://github.com/GongRzhe/Office-Word-MCP-Server) | Microsoft Word document creation | Free | ![GitHub stars](https://img.shields.io/github/stars/GongRzhe/Office-Word-MCP-Server?style=flat) |
 | [PowerPoint MCP](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | PowerPoint presentation creation | Free | ![GitHub stars](https://img.shields.io/github/stars/GongRzhe/Office-PowerPoint-MCP-Server?style=flat) |
 | [Excel MCP](https://github.com/haris-musa/excel-mcp-server) | Excel file manipulation | Free | ![GitHub stars](https://img.shields.io/github/stars/haris-musa/excel-mcp-server?style=flat) |
+
+---
+
+## Community Contributions
+
+> 🙏 Thanks to these contributors who submitted their MCP servers!
+
+### Note-Taking & Knowledge
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [bear-notes](https://github.com/vasylenko/claude-desktop-extension-bear-notes) | Bear Notes MCP server | Free | ![stars](https://img.shields.io/github/stars/vasylenko/claude-desktop-extension-bear-notes?style=flat) | *[@vasylenko](https://github.com/vasylenko)* |
+| [mcp-apple-notes](https://github.com/henilcalagiya/mcp-apple-notes) | Apple Notes MCP | Free | ![stars](https://img.shields.io/github/stars/henilcalagiya/mcp-apple-notes?style=flat) | *[@henilcalagiya](https://github.com/henilcalagiya)* |
+
+### Productivity Tools
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [claudia](https://github.com/yuvalsuede/claudia) | Claudia productivity assistant | Free | ![stars](https://img.shields.io/github/stars/yuvalsuede/claudia?style=flat) | *[@yuvalsuede](https://github.com/yuvalsuede)* |
+| [md-to-pdf-mcp](https://github.com/MarceauSolutions/md-to-pdf-mcp) | Markdown to PDF converter | Free | ![stars](https://img.shields.io/github/stars/MarceauSolutions/md-to-pdf-mcp?style=flat) | *[@wmarceau](https://github.com/wmarceau)* |
+| [GlyphForge](https://github.com/PLR2388/GlyphForge) | Unicode text transformation | Free | ![stars](https://img.shields.io/github/stars/PLR2388/GlyphForge?style=flat) | *[@PLR2388](https://github.com/PLR2388)* |
+| [miro-mcp-server](https://github.com/olgasafonova/miro-mcp-server) | Miro whiteboard integration | Free | ![stars](https://img.shields.io/github/stars/olgasafonova/miro-mcp-server?style=flat) | *[@olgasafonova](https://github.com/olgasafonova)* |
+| [productplan-mcp-server](https://github.com/olgasafonova/productplan-mcp-server) | ProductPlan roadmaps | Free | ![stars](https://img.shields.io/github/stars/olgasafonova/productplan-mcp-server?style=flat) | *[@olgasafonova](https://github.com/olgasafonova)* |
+
+### Browser & Automation
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [pptr-mcp](https://github.com/iatsiuk/pptr-mcp) | Puppeteer browser automation | Free | ![stars](https://img.shields.io/github/stars/iatsiuk/pptr-mcp?style=flat) | *[@iatsiuk](https://github.com/iatsiuk)* |
+
+### Office & Documents
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [spreadsheet-mcp](https://github.com/PSU3D0/spreadsheet-mcp) | Spreadsheet MCP server | Free | ![stars](https://img.shields.io/github/stars/PSU3D0/spreadsheet-mcp?style=flat) | *[@PSU3D0](https://github.com/PSU3D0)* |
+
+### Communication
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [mattermost-mcp](https://github.com/conarti/mattermost-mcp) | Mattermost integration | Free | ![stars](https://img.shields.io/github/stars/conarti/mattermost-mcp?style=flat) | *[@conarti](https://github.com/conarti)* |
+
+### Calendar & Email
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [calendar-mcp](https://github.com/wyattjoh/calendar-mcp) | Calendar MCP server | Free | ![stars](https://img.shields.io/github/stars/wyattjoh/calendar-mcp?style=flat) | *[@wyattjoh](https://github.com/wyattjoh)* |
+| [jmap-mcp](https://github.com/wyattjoh/jmap-mcp) | JMAP email protocol | Free | ![stars](https://img.shields.io/github/stars/wyattjoh/jmap-mcp?style=flat) | *[@wyattjoh](https://github.com/wyattjoh)* |
 
 ---
 
