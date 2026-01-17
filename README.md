@@ -17,6 +17,8 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 - [File Storage](#file-storage)
 - [Email](#email)
 - [Automation](#automation)
+- [Browser Automation](#browser-automation)
+- [Office Documents](#office-documents)
 
 ---
 
@@ -55,11 +57,12 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Slack MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) | Slack messages and channels | Freemium | ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat) |
-| [Slack MCP Server](https://github.com/jtalk22/slack-mcp-server) | Slack DMs, channels via browser tokens | Free | ![GitHub stars](https://img.shields.io/github/stars/jtalk22/slack-mcp-server?style=flat) |
+| [Slack MCP Server](https://github.com/korotovsky/slack-mcp-server) | Powerful Slack with no permission requirements | Free | ![GitHub stars](https://img.shields.io/github/stars/korotovsky/slack-mcp-server?style=flat) |
 | [Mattermost MCP](https://github.com/jagan-shanmugam/mattermost-mcp-host) | Mattermost teams and channels | Free | ![GitHub stars](https://img.shields.io/github/stars/jagan-shanmugam/mattermost-mcp-host?style=flat) |
 | [Discord MCP Server](https://github.com/SaseQ/discord-mcp) | Discord interaction for AI assistants | Free | ![GitHub stars](https://img.shields.io/github/stars/SaseQ/discord-mcp?style=flat) |
 | [Telegram MCP Server](https://github.com/chigwell/telegram-mcp) | Telegram via Telethon, full chat access | Free | ![GitHub stars](https://img.shields.io/github/stars/chigwell/telegram-mcp?style=flat) |
 | [WhatsApp MCP Server](https://github.com/lharries/whatsapp-mcp) | WhatsApp personal messaging | Free | ![GitHub stars](https://img.shields.io/github/stars/lharries/whatsapp-mcp?style=flat) |
+| [LINE Bot MCP](https://github.com/line/line-bot-mcp-server) | LINE Messaging API integration | Requires account | ![GitHub stars](https://img.shields.io/github/stars/line/line-bot-mcp-server?style=flat) |
 
 ---
 
@@ -76,6 +79,8 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Google Workspace MCP](https://github.com/taylorwilsdon/google_workspace_mcp) | Gmail, Calendar, Docs, Sheets, Drive | Free | ![GitHub stars](https://img.shields.io/github/stars/taylorwilsdon/google_workspace_mcp?style=flat) |
+| [Gmail MCP](https://github.com/GongRzhe/Gmail-MCP-Server) | Gmail with auto authentication | Free | ![GitHub stars](https://img.shields.io/github/stars/GongRzhe/Gmail-MCP-Server?style=flat) |
+| [MS 365 MCP](https://github.com/Softeria/ms-365-mcp-server) | Microsoft 365 via Graph API | Requires account | ![GitHub stars](https://img.shields.io/github/stars/Softeria/ms-365-mcp-server?style=flat) |
 
 ---
 
@@ -83,7 +88,28 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
-| [n8n MCP Builder](https://github.com/czlonkowski/n8n-mcp) | Build n8n workflows via AI | Free | ![GitHub stars](https://img.shields.io/github/stars/czlonkowski/n8n-mcp?style=flat) |
+| [n8n MCP Builder](https://github.com/leonardsellem/n8n-mcp-server) | Interact with n8n API | Free | ![GitHub stars](https://img.shields.io/github/stars/leonardsellem/n8n-mcp-server?style=flat) |
+
+---
+
+## Browser Automation
+
+| Name | Description | Pricing | Stars |
+|------|-------------|---------|-------|
+| [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Official Microsoft Playwright automation | Free | ![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat) |
+| [Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase) | Browser automation with Stagehand | Freemium | ![GitHub stars](https://img.shields.io/github/stars/browserbase/mcp-server-browserbase?style=flat) |
+| [Browser Use MCP](https://github.com/kontext-dev/browser-use-mcp-server) | Browse the web from AI assistants | Free | ![GitHub stars](https://img.shields.io/github/stars/kontext-dev/browser-use-mcp-server?style=flat) |
+| [Chrome MCP](https://github.com/hangwin/mcp-chrome) | Chrome browser automation | Free | ![GitHub stars](https://img.shields.io/github/stars/hangwin/mcp-chrome?style=flat) |
+
+---
+
+## Office Documents
+
+| Name | Description | Pricing | Stars |
+|------|-------------|---------|-------|
+| [Word MCP](https://github.com/GongRzhe/Office-Word-MCP-Server) | Microsoft Word document creation | Free | ![GitHub stars](https://img.shields.io/github/stars/GongRzhe/Office-Word-MCP-Server?style=flat) |
+| [PowerPoint MCP](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | PowerPoint presentation creation | Free | ![GitHub stars](https://img.shields.io/github/stars/GongRzhe/Office-PowerPoint-MCP-Server?style=flat) |
+| [Excel MCP](https://github.com/haris-musa/excel-mcp-server) | Excel file manipulation | Free | ![GitHub stars](https://img.shields.io/github/stars/haris-musa/excel-mcp-server?style=flat) |
 
 ---
 
