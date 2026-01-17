@@ -124,6 +124,7 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 |------|-------------|---------|-------|-------------|
 | [bear-notes](https://github.com/vasylenko/claude-desktop-extension-bear-notes) | Bear Notes MCP server | Free | ![stars](https://img.shields.io/github/stars/vasylenko/claude-desktop-extension-bear-notes?style=flat) | *[@vasylenko](https://github.com/vasylenko)* |
 | [mcp-apple-notes](https://github.com/henilcalagiya/mcp-apple-notes) | Apple Notes MCP | Free | ![stars](https://img.shields.io/github/stars/henilcalagiya/mcp-apple-notes?style=flat) | *[@henilcalagiya](https://github.com/henilcalagiya)* |
+| [gistpad-mcp](https://github.com/lostintangent/gistpad-mcp) | Personal knowledge, notes, and prompts via GitHub Gists | Free | ![stars](https://img.shields.io/github/stars/lostintangent/gistpad-mcp?style=flat) | *[@lostintangent](https://github.com/lostintangent)* |
 
 ### Productivity Tools
 
@@ -134,6 +135,7 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 | [GlyphForge](https://github.com/PLR2388/GlyphForge) | Unicode text transformation | Free | ![stars](https://img.shields.io/github/stars/PLR2388/GlyphForge?style=flat) | *[@PLR2388](https://github.com/PLR2388)* |
 | [miro-mcp-server](https://github.com/olgasafonova/miro-mcp-server) | Miro whiteboard integration | Free | ![stars](https://img.shields.io/github/stars/olgasafonova/miro-mcp-server?style=flat) | *[@olgasafonova](https://github.com/olgasafonova)* |
 | [productplan-mcp-server](https://github.com/olgasafonova/productplan-mcp-server) | ProductPlan roadmaps | Free | ![stars](https://img.shields.io/github/stars/olgasafonova/productplan-mcp-server?style=flat) | *[@olgasafonova](https://github.com/olgasafonova)* |
+| [kanboard-mcp](https://github.com/bivex/kanboard-mcp) | Kanboard project management for AI agents | Free | ![stars](https://img.shields.io/github/stars/bivex/kanboard-mcp?style=flat) | *[@bivex](https://github.com/bivex)* |
 
 ### Browser & Automation
 
@@ -152,6 +154,7 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 | Name | Description | Pricing | Stars | Contributor |
 |------|-------------|---------|-------|-------------|
 | [mattermost-mcp](https://github.com/conarti/mattermost-mcp) | Mattermost integration | Free | ![stars](https://img.shields.io/github/stars/conarti/mattermost-mcp?style=flat) | *[@conarti](https://github.com/conarti)* |
+| [mcp-server-chatsum](https://github.com/chatmcp/mcp-server-chatsum) | Query and summarize chat messages | Free | ![stars](https://img.shields.io/github/stars/chatmcp/mcp-server-chatsum?style=flat) | *[@chatmcp](https://github.com/chatmcp)* |
 
 ### Calendar & Email
 
