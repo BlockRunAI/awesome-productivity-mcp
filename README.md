@@ -101,6 +101,13 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 | [Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase) | Browser automation with Stagehand | Freemium | ![GitHub stars](https://img.shields.io/github/stars/browserbase/mcp-server-browserbase?style=flat) |
 | [Browser Use MCP](https://github.com/kontext-dev/browser-use-mcp-server) | Browse the web from AI assistants | Free | ![GitHub stars](https://img.shields.io/github/stars/kontext-dev/browser-use-mcp-server?style=flat) |
 | [Chrome MCP](https://github.com/hangwin/mcp-chrome) | Chrome browser automation | Free | ![GitHub stars](https://img.shields.io/github/stars/hangwin/mcp-chrome?style=flat) |
+| [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | Free | ![GitHub stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=flat) |
+| [Browser Tools MCP](https://github.com/AgentDeskAI/browser-tools-mcp) | Monitor browser logs from Cursor/IDEs | Free | ![GitHub stars](https://img.shields.io/github/stars/AgentDeskAI/browser-tools-mcp?style=flat) |
+| [BrowserMCP](https://github.com/BrowserMCP/mcp) | AI applications control your browser | Free | ![GitHub stars](https://img.shields.io/github/stars/BrowserMCP/mcp?style=flat) |
+| [Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP) | Terminal control, file search, diff editing | Free | ![GitHub stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=flat) |
+| [Windows MCP](https://github.com/CursorTouch/Windows-MCP) | Computer use in Windows | Free | ![GitHub stars](https://img.shields.io/github/stars/CursorTouch/Windows-MCP?style=flat) |
+| [Magic MCP](https://github.com/21st-dev/magic-mcp) | v0-like frontend in Cursor/Windsurf | Free | ![GitHub stars](https://img.shields.io/github/stars/21st-dev/magic-mcp?style=flat) |
+| [MCP Feedback Enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) | Interactive user feedback with Web UI | Free | ![GitHub stars](https://img.shields.io/github/stars/Minidoracat/mcp-feedback-enhanced?style=flat) |
 
 ---
 
