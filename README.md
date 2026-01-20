@@ -108,6 +108,7 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 | [Windows MCP](https://github.com/CursorTouch/Windows-MCP) | Computer use in Windows | Free | ![GitHub stars](https://img.shields.io/github/stars/CursorTouch/Windows-MCP?style=flat) |
 | [Magic MCP](https://github.com/21st-dev/magic-mcp) | v0-like frontend in Cursor/Windsurf | Free | ![GitHub stars](https://img.shields.io/github/stars/21st-dev/magic-mcp?style=flat) |
 | [MCP Feedback Enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) | Interactive user feedback with Web UI | Free | ![GitHub stars](https://img.shields.io/github/stars/Minidoracat/mcp-feedback-enhanced?style=flat) |
+| [Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) | Figma layout info for AI coding agents | Free | ![GitHub stars](https://img.shields.io/github/stars/GLips/Figma-Context-MCP?style=flat) |
 
 ---
 
