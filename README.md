@@ -111,6 +111,7 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 | [MCP Feedback Enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) | Interactive user feedback with Web UI | Free | ![GitHub stars](https://img.shields.io/github/stars/Minidoracat/mcp-feedback-enhanced?style=flat) |
 | [Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) | Figma layout info for AI coding agents | Free | ![GitHub stars](https://img.shields.io/github/stars/GLips/Figma-Context-MCP?style=flat) |
 | [Cursor Talk to Figma](https://github.com/grab/cursor-talk-to-figma-mcp) | Bidirectional Cursor ↔ Figma integration | Free | ![GitHub stars](https://img.shields.io/github/stars/grab/cursor-talk-to-figma-mcp?style=flat) |
+| [Web Eval Agent](https://github.com/Operative-Sh/web-eval-agent) | Autonomous web app debugging and UX evaluation | Free | ![GitHub stars](https://img.shields.io/github/stars/Operative-Sh/web-eval-agent?style=flat) |
 
 ---
 
