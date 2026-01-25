@@ -65,6 +65,7 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 | [Telegram MCP Server](https://github.com/chigwell/telegram-mcp) | Telegram via Telethon, full chat access | Free | ![GitHub stars](https://img.shields.io/github/stars/chigwell/telegram-mcp?style=flat) |
 | [WhatsApp MCP Server](https://github.com/lharries/whatsapp-mcp) | WhatsApp personal messaging | Free | ![GitHub stars](https://img.shields.io/github/stars/lharries/whatsapp-mcp?style=flat) |
 | [LINE Bot MCP](https://github.com/line/line-bot-mcp-server) | LINE Messaging API integration | Requires account | ![GitHub stars](https://img.shields.io/github/stars/line/line-bot-mcp-server?style=flat) |
+| [Microsoft Teams MCP](https://github.com/InditexTech/mcp-teams-server) | MS Teams messages, mentions, replies | Requires account | ![GitHub stars](https://img.shields.io/github/stars/InditexTech/mcp-teams-server?style=flat) |
 
 ---
 
@@ -90,6 +91,7 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
+| [Activepieces](https://github.com/activepieces/activepieces) | AI workflow automation with 400+ MCP servers | Free | ![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=flat) |
 | [n8n MCP Builder](https://github.com/leonardsellem/n8n-mcp-server) | Interact with n8n API | Free | ![GitHub stars](https://img.shields.io/github/stars/leonardsellem/n8n-mcp-server?style=flat) |
 
 ---
@@ -99,6 +101,7 @@ A curated list of MCP (Model Context Protocol) servers for productivity tools an
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Official Microsoft Playwright automation | Free | ![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat) |
+| [MCP Playwright](https://github.com/executeautomation/mcp-playwright) | Playwright for Claude, Cline, Cursor IDEs | Free | ![GitHub stars](https://img.shields.io/github/stars/executeautomation/mcp-playwright?style=flat) |
 | [Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase) | Browser automation with Stagehand | Freemium | ![GitHub stars](https://img.shields.io/github/stars/browserbase/mcp-server-browserbase?style=flat) |
 | [Browser Use MCP](https://github.com/kontext-dev/browser-use-mcp-server) | Browse the web from AI assistants | Free | ![GitHub stars](https://img.shields.io/github/stars/kontext-dev/browser-use-mcp-server?style=flat) |
 | [Chrome MCP](https://github.com/hangwin/mcp-chrome) | Chrome browser automation | Free | ![GitHub stars](https://img.shields.io/github/stars/hangwin/mcp-chrome?style=flat) |
